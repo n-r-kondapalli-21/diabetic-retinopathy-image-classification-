@@ -80,7 +80,7 @@ The main application uses a pre-trained GAN generator to create images and then 
 To start the application, run the `retina.py` script:
 
 ```bash
-python main.py
+python retina.py
 ```
 
 This will open the GUI. From there, you can:
